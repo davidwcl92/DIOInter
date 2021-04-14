@@ -1,6 +1,4 @@
 #Strogonoff de Frango :chicken
-/* **Negrito
-_italico_ */
 ###Ingredientes
  - 500G de frango
  - 3 colheres de _ketchup_
