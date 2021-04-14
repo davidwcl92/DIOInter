@@ -1,5 +1,6 @@
 #Strogonoff de Frango :chicken
-###Ingredientes
+
+##Ingredientes
  - 500G de frango
  - 3 colheres de _ketchup_
  - 2 latas de milho
