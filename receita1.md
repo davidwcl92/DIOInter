@@ -5,5 +5,5 @@
  - 3 colheres de _ketchup_
  - 2 latas de milho
  - Bata palha a gosto
-###Modo de preparo
+##Modo de preparo
  - Bater tudo no Liquidificador e **beber
